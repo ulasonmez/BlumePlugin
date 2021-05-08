@@ -1,0 +1,12 @@
+main: me.Blume.BlumePlugin.Main
+name: BlumePlugin
+author: Blume
+version: 1.0
+
+commands:
+  flyingspeed:
+    description: <number 1 to 10>
+  heal:
+    description: health and hunger bar to full
+  start:
+    description: hunger to full,health to full,set time 0
