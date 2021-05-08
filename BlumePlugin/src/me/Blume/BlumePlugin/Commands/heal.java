@@ -23,7 +23,7 @@ public class heal implements CommandExecutor{
 			}
 			player.setHealth(20.0);
 			player.setFoodLevel(25);
-			
+			return true;
 			
 		}
 		return false;
