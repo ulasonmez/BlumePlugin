@@ -5,8 +5,11 @@ version: 1.0
 
 commands:
   flyingspeed:
-    description: <number 1 to 10>
+    description: Change your Flying Speed
+    usage: /flyingspeed <1 to 10>
   heal:
     description: health and hunger bar to full
+    usage: /heal
   start:
     description: hunger to full,health to full,set time 0
+    usage: /start
